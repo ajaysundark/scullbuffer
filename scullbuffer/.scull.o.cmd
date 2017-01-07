@@ -1,0 +1,1 @@
+cmd_/home/student/development/4DecTest/assignment7/scullbuffer/scull.o := ld -m elf_x86_64   -r -o /home/student/development/4DecTest/assignment7/scullbuffer/scull.o /home/student/development/4DecTest/assignment7/scullbuffer/main.o /home/student/development/4DecTest/assignment7/scullbuffer/scullbuffer.o 

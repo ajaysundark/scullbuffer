@@ -1,0 +1,1 @@
+cmd_/home/student/development/4DecTest/assignment7/scullbuffer/scull.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/student/development/4DecTest/assignment7/scullbuffer/scull.ko /home/student/development/4DecTest/assignment7/scullbuffer/scull.o /home/student/development/4DecTest/assignment7/scullbuffer/scull.mod.o
