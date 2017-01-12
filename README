@@ -1,14 +1,7 @@
 Operating Systems CSci 5103 : Linux Driver Development
+
 A character device driver that can be used to synchronize multiple producer-consumer processes. 
 The device driver exports an in-memory buffer which can be used as a scratch space by multiple processes.
-
--------------------------------Assignment Detail----------------------------------------
-* Assignment# 7
-* name: Ajay Sundar Karuppasamy, Manu Khandelwal
-* student id: 5298653, 5272109
-* x500 id: karup002, khand055
-* CSELABS machine: csel-x13-umh.cselabs.umn.edu
-*/
 
 
 ------------------------How to compile--------------------------
@@ -17,7 +10,7 @@ The device driver exports an in-memory buffer which can be used as a scratch spa
 
 
 
------------------------How to run the test-----------------------------------------
+-----------------------How to run the tests-----------------------------------------
 
 1. Run 'sudo ./alltestcases.sh' at the project directory. This will one by one call all the 5 test cases. Necessary console logging is done to show which producer is producing item and which consumer is consuming item. At the end of each test, total number of items produced and consumed by producer and consumer respectively are logged along with successful completion of the test case.
 
