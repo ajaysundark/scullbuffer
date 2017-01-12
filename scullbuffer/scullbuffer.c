@@ -21,8 +21,6 @@
  */
 
 /*
- * Please stick this banner as required by the original implementers
- *
  * Copyright (C) 2001 Alessandro Rubini and Jonathan Corbet
  * Copyright (C) 2001 O'Reilly & Associates
  *
